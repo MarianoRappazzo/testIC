@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "container:/Users/mariano/Desktop/testIC/TestIC/TestIC.xcodeproj">
+      location = "group:TestIC/TestIC.xcodeproj">
    </FileRef>
 </Workspace>
